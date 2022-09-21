@@ -1,1 +1,1 @@
-Study for Loss Functions
+Study Loss Functions
